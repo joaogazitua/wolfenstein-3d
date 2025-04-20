@@ -1,3 +1,3 @@
 #main game setting
-RES = WIDTH, HEIGHT = 1920, 1080
+RES = WIDTH, HEIGHT = 1280, 720
 FPS = 60
